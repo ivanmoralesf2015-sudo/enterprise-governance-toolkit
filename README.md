@@ -96,21 +96,12 @@ This model helps organizations maintain clarity around leadership oversight and 
 
 | File | Description |
 |-----|-------------|
-| docs/governance-principles.md | Core principles for effective enterprise governance |
-| docs/governance-structure.md | Guidance for defining governance roles and structures |
-| docs/decision-framework.md | Models for clarifying decision authority |
-| docs/escalation-model.md | Framework for managing escalations across initiatives |
-| docs/governance-cadence.md | Recommended leadership review cadence |
-
----
-
-### 🧰 Templates
-
-| File | Description |
-|-----|-------------|
-| templates/decision-log-template.md | Template for tracking governance decisions |
-| templates/steering-committee-agenda-template.md | Template for governance meeting agendas |
-| templates/governance-dashboard-template.md | Template for leadership oversight dashboards |
+| `docs/01-governance-principles.md` | Core principles that guide effective enterprise governance structures |
+| `docs/02-governance-structure.md` | Overview of governance roles and leadership structures used to coordinate initiatives |
+| `docs/03-decision-framework.md` | Framework for defining decision authority across leadership, governance committees, and program teams |
+| `docs/04-escalation-model.md` | Guidance for escalating risks, conflicts, and decisions that require leadership intervention |
+| `docs/05-portfolio-oversight.md` | Methods for maintaining leadership visibility across multiple initiatives |
+| `docs/06-governance-cadence.md` | Governance meeting rhythms and leadership review cycles used to maintain alignment |
 
 ---
 
@@ -118,8 +109,20 @@ This model helps organizations maintain clarity around leadership oversight and 
 
 | File | Description |
 |-----|-------------|
-| examples/example-governance-model.md | Example enterprise governance structure |
-| examples/example-steering-committee.md | Example steering committee model |
+| `examples/example-governance-model.md` | Example structure illustrating how enterprise governance may be organized |
+| `examples/example-steering-committee-structure.md` | Example of how a steering committee can be structured to oversee initiatives |
+
+---
+
+### 🧰 Templates
+
+| File | Description |
+|-----|-------------|
+| `templates/governance-model-template.md` | Template for defining an organization's governance structure |
+| `templates/decision-authority-template.md` | Template for documenting decision ownership across governance levels |
+| `templates/decision-log-template.md` | Template for tracking leadership decisions made during governance reviews |
+| `templates/governance-dashboard-template.md` | Template for summarizing portfolio health across initiatives |
+| `templates/steering-committee-agenda-template.md` | Template for structuring steering committee governance meetings |
 
 ---
 
