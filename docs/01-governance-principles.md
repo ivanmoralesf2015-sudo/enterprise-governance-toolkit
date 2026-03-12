@@ -87,8 +87,11 @@ Examples include:
 - portfolio oversight processes
 
 ---
+---
 
-Part of the Transformation Operating Framework  
+Part of the ***Transformation Operating Framework***
+
+Transformation Operating Framework
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
