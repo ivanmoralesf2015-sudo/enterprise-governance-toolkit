@@ -1,1 +1,12 @@
+Copyright © 2026 Somer Walker
+
+All rights reserved.
+
+This repository contains original frameworks, methodologies, documentation, and supporting materials authored by Somer Walker.
+
+The materials are provided for educational and informational purposes.
+
+No part of this repository may be reproduced, redistributed, or used to create derivative consulting frameworks, training materials, or commercial offerings without prior written permission from the author.
+
+Permission requests may be directed to the repository owner.
 
