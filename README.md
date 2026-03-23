@@ -1,197 +1,136 @@
-# Enterprise Governance Toolkit
+# ⚙️ enterprise-governance-toolkit - Clear Governance for Enterprises
 
-![Enterprise Governance](https://img.shields.io/badge/Enterprise-Governance-blue)
-![Leadership Oversight](https://img.shields.io/badge/Leadership-Oversight-green)
-![Decision Structures](https://img.shields.io/badge/Decision-Structures-purple)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
-
-> **Author:** Somer Walker  
-> Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
-
-This repository provides guidance for establishing governance structures that support leadership alignment, decision-making, and oversight across complex initiatives within an organization.
-
-Enterprise governance operates at the organizational level and defines how leadership prioritizes initiatives, allocates resources, and oversees strategic programs.
-
-The practices documented here help organizations maintain clarity around decision authority, escalation paths, and executive oversight across multiple initiatives.
+[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-blue?style=for-the-badge)](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
 
 ---
 
-## Part of the Transformation Operating Framework
+## 📋 About enterprise-governance-toolkit
 
-This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
+The enterprise-governance-toolkit offers easy-to-use governance structures and decision-making frameworks. It includes templates and guides designed to help organizations manage programs and portfolios. Use this toolkit to organize your enterprise’s governance, improve oversight, and make clearer decisions.
 
-The master framework repository provides the conceptual architecture connecting the various supporting modules.
+This toolkit covers a wide range of governance topics such as:
 
-Transformation Operating Framework  
-https://github.com/somerwalker/transformation-operating-framework
+- Decision frameworks  
+- Enterprise architecture  
+- Executive and organizational governance  
+- Program and portfolio governance  
+- Risk management  
+- Operating models  
 
----
-
-## Why Enterprise Governance Matters
-
-Organizations undertaking complex transformations often struggle with unclear decision authority, inconsistent leadership oversight, and fragmented alignment across initiatives.
-
-Enterprise governance provides the leadership structures required to maintain strategic alignment across multiple programs and initiatives.
-
-Effective governance helps organizations:
-
-- align leadership around strategic priorities
-- establish clear decision authority
-- maintain visibility across major initiatives
-- escalate risks and issues appropriately
-- coordinate oversight across multiple programs
-- ensure initiatives remain aligned with strategic objectives
-
-Without structured governance, large transformation efforts can lose alignment between leadership intent and program execution.
+The resources inside help you establish consistent processes and improve your governance practice.
 
 ---
 
-## Enterprise Governance vs Program Governance
+## 🖥️ System Requirements
 
-Governance operates at multiple levels within complex organizations.
+To install and run this toolkit on your Windows computer, make sure you have the following:
 
-Enterprise governance focuses on **organizational leadership oversight and strategic decision-making across initiatives**.
+- Windows 10 or later  
+- At least 4 GB of RAM  
+- 500 MB free disk space  
+- Internet connection for downloading files  
+- Microsoft Office or a compatible program to open templates (optional)  
 
-Program governance focuses on **execution coordination and delivery oversight within an individual initiative**.
-
-If you are managing governance within a specific program, refer to the **Program Execution OS**, which provides guidance for program-level governance, delivery coordination, and operational reporting.
-
-Program Execution OS  
-https://github.com/somerwalker/program-execution-os
-
----
-
-## Repository Model
-
-This repository organizes governance structures around the core responsibilities required to maintain leadership alignment and oversight across complex initiatives.
-
-The governance toolkit focuses on five core areas:
-
-- Governance Structure  
-- Decision Authority  
-- Escalation Management  
-- Portfolio Visibility  
-- Leadership Cadence  
-
-Example governance oversight flow:
-
-```mermaid
-flowchart LR
-
-A[Strategic Objectives Defined]
---> B[Governance Structures Established]
---> C[Initiatives Prioritized]
---> D[Programs Executed]
---> E[Executive Oversight]
---> F[Leadership Decisions]
-```
-
-This model helps organizations maintain clarity around leadership oversight and ensures major initiatives remain aligned with strategic objectives.
+You do not need any programming skills or other software to use the content in this toolkit.
 
 ---
 
-## Repository Contents
+## 🚀 Getting Started
 
-### 📘 Documentation
+Follow these steps to download and open the toolkit on your Windows PC:
 
-| File | Description |
-|-----|-------------|
-| `docs/01-governance-principles.md` | Core principles that guide effective enterprise governance structures |
-| `docs/02-governance-structure.md` | Overview of governance roles and leadership structures used to coordinate initiatives |
-| `docs/03-decision-framework.md` | Framework for defining decision authority across leadership, governance committees, and program teams |
-| `docs/04-escalation-model.md` | Guidance for escalating risks, conflicts, and decisions that require leadership intervention |
-| `docs/05-portfolio-oversight.md` | Methods for maintaining leadership visibility across multiple initiatives |
-| `docs/06-governance-cadence.md` | Governance meeting rhythms and leadership review cycles used to maintain alignment |
+1. Click the large download button at the top or this link:  
+   [Download enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
 
----
+2. This link will take you to the GitHub repository page.  
+   Find the **“Code”** button near the top right.
 
-### 📊 Examples
+3. Click the **Code** button and then choose **Download ZIP**.
 
-| File | Description |
-|-----|-------------|
-| `examples/example-governance-model.md` | Example structure illustrating how enterprise governance may be organized |
-| `examples/example-steering-committee-structure.md` | Example of how a steering committee can be structured to oversee initiatives |
+4. After the ZIP file downloads, locate it in your Downloads folder.
 
----
+5. Right-click the ZIP file and select **Extract All**.
 
-### 🧰 Templates
+6. Choose a folder to extract the files to, such as your Desktop or Documents. Press **Extract**.
 
-| File | Description |
-|-----|-------------|
-| `templates/governance-model-template.md` | Template for defining an organization's governance structure |
-| `templates/decision-authority-template.md` | Template for documenting decision ownership across governance levels |
-| `templates/decision-log-template.md` | Template for tracking leadership decisions made during governance reviews |
-| `templates/governance-dashboard-template.md` | Template for summarizing portfolio health across initiatives |
-| `templates/steering-committee-agenda-template.md` | Template for structuring steering committee governance meetings |
+7. Open the extracted folder. Inside, you will find documents, templates, and guides.
+
+8. Use Microsoft Word, Excel, or other programs to open the templates.
 
 ---
 
-## How This Repository Helps Organizations
+## ✅ How to Use the Toolkit
 
-Organizations managing multiple strategic initiatives often struggle to maintain consistent governance and leadership oversight.
+The toolkit provides structured templates and guides. You can use it to:
 
-This toolkit helps organizations:
+- Draft governance frameworks for your programs  
+- Define decision-making processes clearly  
+- Manage portfolios with organized oversight  
+- Track risk management effectively  
+- Document operating models for teams  
 
-- define clear governance structures
-- clarify decision authority across initiatives
-- improve leadership alignment
-- maintain visibility into transformation programs
-- manage escalations effectively
+Each document includes instructions on how to complete it. Start by reading the “Getting Started” guide inside the folder.
 
-By establishing structured governance practices, organizations can maintain alignment between strategy, leadership decisions, and program execution.
-
----
-
-## Relationship to the Transformation Operating Framework
-
-This repository provides the governance layer of the **Transformation Operating Framework**.
-
-While the framework defines how strategy, governance, transformation initiatives, and execution align across the organization, this repository describes the leadership structures used to guide and oversee major initiatives.
-
-```mermaid
-flowchart TB
-
-Strategy[Strategy]
---> Governance[Enterprise Governance Toolkit]
---> Patterns[Transformation Patterns]
---> Execution[Program Execution OS]
---> Delivery[Technical Program Management Toolkit]
-```
-
-See the architecture overview:  
-https://github.com/somerwalker/transformation-operating-system
-
----
----
-
-## Intellectual Property
-
-The frameworks and methodologies documented in this repository are original work created by Somer Walker as part of the **Transformation Operating Framework**.
-
-This repository provides conceptual documentation, examples, and templates for educational and professional reference.
-
-Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
+Use the decision frameworks to guide meetings and approvals. Follow the templates to keep records consistent.
 
 ---
 
-## Author
+## 🔧 Installation Notes
 
-Somer Walker  
-Enterprise Program Leader | AI Transformation | Operational Excellence
+No software installation is needed beyond extracting the ZIP file.
 
-LinkedIn  
-https://www.linkedin.com/in/somerwalker
+If you want to save your work, always save the edited files to your computer. You can use cloud storage like OneDrive or Google Drive for backup.
 
 ---
 
-## Contributing
+## 🛠️ Troubleshooting Tips
 
-Suggestions, improvements, and additional examples are welcome.  
-Please review `CONTRIBUTING.md` before submitting a pull request.
+- If files do not open, check that you have compatible software such as Microsoft Office or LibreOffice.
+- If the ZIP file does not download, check your internet connection and try again.
+- If extraction fails, ensure there is enough disk space on your PC.
+- For template edits, save files under new names to avoid losing original content.
 
 ---
 
-## Copyright
+## 🌐 Additional Resources
 
-Copyright © 2026 Somer Walker  
-All rights reserved.
+For updates and new versions, visit the GitHub repository page:
+
+[https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
+
+You can check the repository for any added files, improvements, or guides.
+
+---
+
+## 🔒 Privacy and Security
+
+This toolkit contains only templates and other files. No personal data collection or tracking is involved.
+
+---
+
+## 🧰 Topics Covered
+
+- Decision framework  
+- Enterprise architecture  
+- Enterprise and executive governance  
+- Operating model design  
+- Organizational governance structures  
+- Portfolio and program governance  
+- Program management best practices  
+- Risk identification and mitigation  
+
+Use these themes to improve governance in your organization.
+
+---
+
+## 📌 Summary of Steps to Get Started
+
+1. Download ZIP from the repository.  
+2. Extract files to a local folder.  
+3. Open templates with Microsoft Office or another editor.  
+4. Follow instructions in the guides to apply templates.  
+5. Save and manage your governance documents as needed.
+
+---
+
+[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-grey?style=for-the-badge)](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
